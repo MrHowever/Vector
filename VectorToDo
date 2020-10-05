@@ -1,0 +1,15 @@
+vector::vector
+vector::~vector
+vector::assign
+vector::emplace
+vector::emplace_back
+vector::erase
+vector::get_allocator
+vector::insert
+vector::operator=
+vector::pop_back
+vector::push_back
+vector::reserve
+vector::resize
+vector::shrink_to_fit
+vector::swap
